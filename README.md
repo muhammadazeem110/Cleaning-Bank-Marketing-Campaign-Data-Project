@@ -12,6 +12,14 @@ The project involves the following key steps:
 - **Data Reformatting:** Aligning the dataset with predefined structural and datatype requirements for seamless database integration.
 - **Data Splitting:** Dividing the cleaned data into three distinct CSV files tailored for analytical and storage purposes.
 
+## Python Package
+- pandas
+- numpy
+To install these packages you need the following commands:
+```
+pip install pandas -- for the pandas library
+pip install numpy -- for the numpy library
+```
 ## Deliverables
 The final output consists of three well-structured and formatted CSV files, ready for direct import into the bank's PostgreSQL database:
 
